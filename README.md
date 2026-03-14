@@ -116,9 +116,9 @@ GET /api/VideoGameCharacters
 ]
 ```
 
-### Screenshot
+# 📥 Screenshot
 
-![Get All Characters](docs/images/get-all-characters.png)
+![Get All Characters](Images/Get_All_Characters.png)
 
 ---
 
