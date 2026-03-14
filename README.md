@@ -65,9 +65,8 @@ VideoGameCharacterApi
 ├── Program.cs
 └── appsettings.json
 ```
-# 📂 Screenshot
-
-![Project Structure](video-game-character-API/images/Project_structure.png)
+📂 Screenshot
+![Project Structure](video-game-character-API/Images/Project_structure.png)
 ---
 
 # 🗄️ Database Model
