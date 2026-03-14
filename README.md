@@ -68,6 +68,7 @@ VideoGameCharacterApi
 # 📂 Screenshot
 
 ![Project Structure](Images/Project_structure.png)
+
 ---
 # 🗄️ Database Model
 
