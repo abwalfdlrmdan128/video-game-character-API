@@ -65,7 +65,8 @@ VideoGameCharacterApi
 ├── Program.cs
 └── appsettings.json
 ```
-📂 Screenshot
+# 📂 Screenshot
+
 ![Project Structure](video-game-character-API/Images/Project_structure.png)
 ---
 
