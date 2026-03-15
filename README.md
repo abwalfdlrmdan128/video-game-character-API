@@ -285,6 +285,6 @@ Transfers data between the API and the client.
 
 # 👨‍💻 Author
 
-Developed by **Abw Alfadel Ramadan**
+Developed by **Abo Alfadel Ramadan**
 
 If you like this project, give it a ⭐ on GitHub.
