@@ -138,13 +138,9 @@ GET /api/VideoGameCharacters/{id}
 GET /api/VideoGameCharacters/1
 ```
 
-### 📷 Example Screenshot
+# 🔍 Screenshot
 
-```
-docs/images/get-character-by-id.png
-```
-
-![Get Character](docs/images/get-character-by-id.png)
+![Get Character](Images/Get_Character_By_ID.png)
 
 ---
 
@@ -168,13 +164,9 @@ POST /api/VideoGameCharacters
 }
 ```
 
-### 📷 Example Screenshot
+# ➕ Screenshot
 
-```
-docs/images/create-character.png
-```
-
-![Create Character](docs/images/create-character.png)
+![Create Character](Images/Create_Character.png)
 
 ---
 
@@ -199,13 +191,9 @@ PUT /api/VideoGameCharacters/{id}
 }
 ```
 
-### 📷 Example Screenshot
+# ✏️ Screenshot
 
-```
-docs/images/update-character.png
-```
-
-![Update Character](docs/images/update-character.png)
+![Update Character](Images/Update_Character.png)
 
 ---
 
@@ -225,13 +213,9 @@ Example:
 DELETE /api/VideoGameCharacters/1
 ```
 
-### 📷 Example Screenshot
+# ❌ Screenshot
 
-```
-docs/images/delete-character.png
-```
-
-![Delete Character](docs/images/delete-character.png)
+![Delete Character](Images/Delete_Character.png)
 
 ---
 
