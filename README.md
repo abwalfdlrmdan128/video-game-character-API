@@ -1,6 +1,6 @@
 # 🎮 Video Game Character API
 
-A RESTful Web API built with **ASP.NET Core** that allows users to manage video game characters using **CRUD operations** (Create, Read, Update, Delete).
+A RESTful Web API built with **ASP.NET Core** that allows users to manage video game characters using **CRUD operations**(Create,Read,Update,Delete).
 
 The project follows a **clean architecture approach** using:
 
