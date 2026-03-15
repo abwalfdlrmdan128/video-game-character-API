@@ -219,22 +219,6 @@ DELETE /api/VideoGameCharacters/1
 
 ---
 
-# ⚙️ Installation
-
-## Clone the Repository
-
-```
-git clone https://github.com/yourusername/VideoGameCharacterApi.git
-```
-
-Navigate into the project folder
-
-```
-cd VideoGameCharacterApi
-```
-
----
-
 # 🗄️ Configure Database
 
 Edit **appsettings.json**
@@ -261,14 +245,6 @@ Or using CLI
 ```
 dotnet ef migrations add InitialCreate
 dotnet ef database update
-```
-
----
-
-# ▶️ Run the Project
-
-```
-dotnet run
 ```
 
 ---
@@ -304,19 +280,6 @@ Handles database operations via Entity Framework Core.
 ### DTO Layer
 
 Transfers data between the API and the client.
-
----
-
-# 🔮 Future Improvements
-
-Possible improvements for this project:
-
-* JWT Authentication
-* Pagination support
-* Filtering and search
-* Request validation
-* Unit testing
-* Logging system
 
 ---
 
